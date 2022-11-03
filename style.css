@@ -1,9 +1,13 @@
 body
-
+{
+    background-color: goldenrod;
+    text-align: center;
+    
+ 
     
         h1 {
           background-color: gray;
-          text-align: center;
+          
         }
 
         h2
@@ -13,8 +17,8 @@ body
           text-align:center
         }
         
-        ul {
-          background-color: goldenrod;
-          
-        
-        }
+        ul.no-bullets {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+          }
