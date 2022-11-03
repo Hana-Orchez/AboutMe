@@ -5,11 +5,16 @@ body
           background-color: gray;
           text-align: center;
         }
+
+        h2
         
         div {
           background-color: lightblue;
+          text-align:center
         }
         
         ul {
           background-color: goldenrod;
+          
+        
         }
