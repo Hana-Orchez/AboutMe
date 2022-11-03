@@ -1,4 +1,6 @@
-body
+head{ text-align: center;
+}
+    body
 {
     background-color: goldenrod;
     text-align: center;
