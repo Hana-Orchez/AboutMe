@@ -1,0 +1,15 @@
+body
+
+    
+        h1 {
+          background-color: gray;
+          text-align: center;
+        }
+        
+        div {
+          background-color: lightblue;
+        }
+        
+        ul {
+          background-color: goldenrod;
+        }
